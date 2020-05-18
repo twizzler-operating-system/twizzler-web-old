@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 232 253" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <text x="0px" y="25.772px" style="font-family:'BankGothicBT-Medium', 'Bank Gothic';font-weight:500;font-size:34px;fill:rgb(0,70,127);">C<tspan x="24.514px 47.464px 74.29px 92.82px 115.77px 140.318px 150.756px 170.85px 197.982px " y="25.772px 25.772px 25.772px 25.772px 25.772px 25.772px 25.772px 25.772px 25.772px ">ENTER FOR</tspan></text>
+        <text x="0px" y="53.788px" style="font-family:'BankGothicBT-Medium', 'Bank Gothic';font-weight:500;font-size:34px;fill:rgb(0,70,127);">R<tspan x="22.678px 43.758px 66.674px 87.754px 109.378px 132.056px 154.7px 180.03px 188.598px 197.064px " y="53.788px 53.788px 53.788px 53.788px 53.788px 53.788px 53.788px 53.788px 53.788px 53.788px ">ESEARCH IN</tspan></text>
+        <text x="0px" y="213.558px" style="font-family:'BankGothicBT-Medium', 'Bank Gothic';font-weight:500;font-size:34px;fill:rgb(0,70,127);">S<tspan x="33.943px 61.631px 97.92px 130.367px 162.373px 197.88px " y="213.558px 213.558px 213.558px 213.558px 213.558px 213.558px ">TORAGE</tspan></text>
+        <text x="0px" y="241.574px" style="font-family:'BankGothicBT-Medium', 'Bank Gothic';font-weight:500;font-size:34px;fill:rgb(0,70,127);">S<tspan x="34.306px 63.954px 98.26px 126.31px 158.78px 197.064px " y="241.574px 241.574px 241.574px 241.574px 241.574px 241.574px ">YSTEMS</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-73.4546)">
+        <path d="M37.047,151.736C40.737,150.116 44.536,149.224 48.427,149.028L48.427,135.681L5.283,135.681L5.283,190.585C11.682,175.638 21.985,158.352 37.047,151.736" style="fill:rgb(255,238,187);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,18.269)">
+        <path d="M5.284,115.253L5.284,171.539L48.427,171.539L48.427,63.005C45.302,63.192 42.267,63.916 39.336,65.203C21.052,73.231 10.075,100.364 5.284,115.253" style="fill:rgb(185,200,213);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,21.0374)">
+        <path d="M67.732,65.453C66.073,64.504 64.431,63.697 62.808,63.005L62.808,168.769L105.948,168.769L105.948,101.101C92.546,86.133 79.835,72.366 67.732,65.453" style="fill:rgb(127,162,183);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-76.9248)">
+        <path d="M105.948,190.585L105.948,139.151L62.808,139.151L62.808,154.861C65.359,155.802 67.937,157.002 70.545,158.492C82.082,165.084 93.765,177.119 105.948,190.585" style="fill:rgb(255,228,157);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(0,1,1,0,53.0373,22.0521)">
+        <path d="M116.042,67.29L167.755,67.29L167.755,110.433L150.596,110.433C145.285,95.919 131.442,81.487 116.042,67.29" style="fill:rgb(58,110,143);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,280.321,256.287)">
+        <path d="M89.736,116.851L194.06,116.851L194.06,159.994L126.608,159.994C110.654,145.562 95.696,130.933 89.736,116.851" style="fill:rgb(255,212,120);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,66.1764)">
+        <path d="M181.671,108.168C180.4,108.434 179.126,108.578 177.851,108.676L177.851,123.631L220.995,123.631L220.995,63.005C209.482,90.24 196.534,105.075 181.671,108.168" style="fill:rgb(0,70,127);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-21.4164)">
+        <path d="M220.995,134.883L220.995,83.643L177.85,83.643L177.85,190.585C178.743,190.504 179.632,190.391 180.516,190.208C195.657,187.057 208.929,168.934 220.995,134.883" style="fill:rgb(253,187,48);fill-rule:nonzero;"/>
+    </g>
+</svg>
