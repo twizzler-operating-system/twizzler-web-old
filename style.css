@@ -7,7 +7,6 @@ body {
     margin:auto;
 	padding-left: 1em;
 	padding-right: 1em;
-	min-width: 700px;
 }
 
 .content{
@@ -16,6 +15,8 @@ body {
 	padding-top: 8em;
     max-width:800px;
 	margin: auto;
+    margin-bottom: 100px;
+	padding-bottom: 100px;
 }
 
 h1, h2, h3, h4, p {
@@ -24,11 +25,20 @@ h1, h2, h3, h4, p {
 }
 
 footer {
-  position: fixed;
+	position: fixed;
   bottom: 0;
   width: 100%;
-  height: 2.5rem; 
+  height:18px;
+  align-items: center;
+  z-index:998;
+	background-color:#45aaf2;
+	color: #d1d8e0;
+	margin: 0px 0px 0px 0px;
+	padding-left: 2em;
+	left: 0;
+	right:0;
 }
+
 
 .container {
 	display: flex;
@@ -110,8 +120,28 @@ html.contrast span.mfw{
 }
 
 @media screen and (max-width:990px) {
-  .container { flex-direction: column; width: 100%; justify-content: right;  }
+  .container { flex-direction: column; width: 100%; justify-content: right; line-height: 1.1em; }
   .content { padding-top: 20em;}
+footer {
+	position: static;
+  width: 100%;
+  height:18px;
+  align-items: center;
+  z-index:998;
+	background-color:#45aaf2;
+	color: #d1d8e0;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-left: -1em;
+	padding-bottom: 4px;
+	left: 0;
+	right:0;
+}
+
+
+
 }
 
 
