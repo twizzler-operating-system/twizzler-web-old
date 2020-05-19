@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rsync -a *.html *.css images /home/twizzlerweb/twizzler.io/
