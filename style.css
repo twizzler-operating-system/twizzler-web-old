@@ -39,6 +39,12 @@ footer {
 	right:0;
 }
 
+.lastmod {
+    float: right;
+    width: 200px;
+    padding-right: 40px;
+    padding-top: 4px;
+}
 
 .container {
 	display: flex;
